@@ -1,0 +1,25 @@
+{
+  "name": "til",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jihyun-kwon/TIL.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jihyun-kwon/TIL/issues"
+  },
+  "homepage": "https://github.com/jihyun-kwon/TIL#readme",
+  "dependencies": {
+    "@babel/core": "^7.7.7",
+    "@babel/preset-env": "^7.7.7",
+    "gulp": "^4.0.2",
+    "gulp-babel": "^8.0.0"
+  }
+}
